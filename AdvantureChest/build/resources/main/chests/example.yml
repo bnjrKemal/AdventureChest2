@@ -1,0 +1,25 @@
+scheduled-times:
+  - "00:00"
+  - "06:00"
+  - "12:00"
+  - "18:00"
+  -
+
+world: world
+
+announce:
+  - ""
+  - "Event başladı vs. {location} | {world}"
+  - ""
+  -
+
+hologram:
+  - ""
+  - "&bÖrnek Sandık"
+  - ""
+
+#rewards:
+#  - "give %player% apple"
+#  - "give %player% diamond_sword 1 0 {""keep_on_death"": {}}"
+#  - "effect give %player% conduit_power 5000"
+

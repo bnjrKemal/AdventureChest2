@@ -1,0 +1,7 @@
+name: AdvantureChest
+version: '1.0-SNAPSHOT'
+main: com.bnjrKemal.advantureChest.AdvantureChest
+api-version: '1.21'
+authors:
+  - bnjrKemal
+depend: [PlaceholderAPI]
